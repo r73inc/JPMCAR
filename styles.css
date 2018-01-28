@@ -1,0 +1,48 @@
+table{
+	table-layout: fixed;
+	width: 100%;
+	min-width: 600px;
+	background-color: rgb(206, 217, 255);
+}
+th, td{
+	
+	background-color: rgb(206, 217, 255);
+}
+
+.light{
+	background-color: rgb(206, 217, 255);
+}
+
+.dark{
+	background-color: rgb(146, 176, 255);
+}
+
+.tddiv{
+	min-height: 300px;
+	max-height: 450px;
+	overflow: auto;
+}
+
+.images{
+	height: auto; 
+    width: auto;  
+    max-height: 400px;
+}
+
+.procen{
+	max-width: 70%;
+	min-width: 425px;
+	margin-left: 12.5%;
+	margin-right: 12.5%;
+	background-color: rgb(146, 176, 255);
+}
+
+.procenform{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	max-width: 70%;
+	min-width: 425px;
+	margin-left: 12.5%;
+	margin-right: 12.5%;
+	background-color: rgb(146, 176, 255);
+}
